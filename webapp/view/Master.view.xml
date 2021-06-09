@@ -15,7 +15,7 @@
 				level="H2"/>
 		</semantic:titleHeading>
 		<semantic:content>
-			<!-- For client side filtering add this to the items attribute: parameters: {operationMode: 'Client'}}" -->
+			<!-- For client side filtering ensure to add this to the items attribute: parameters: {operationMode: 'Client'}}" -->
 			<List
 				id="list"
 				width="auto"
